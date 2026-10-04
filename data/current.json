@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-04T02:47:49.623585+00:00",
+  "generated_at": "2026-10-04T04:30:37.298911+00:00",
   "model_version": "EXP-008",
   "training_cutoff_date": "2026-06-13",
   "games": [],
   "next_scheduled_tip_utc": "2026-10-20 19:00:00+00:00",
-  "distribution_note": "Thresholds use prior-season out-of-fold isotonic calibration on a zero-truncated Poisson hurdle distribution. Team counts are convolved assuming independence; calibrated probabilities do not alter the validated expected count."
+  "distribution_note": "Thresholds use prior-season out-of-fold isotonic calibration on a zero-truncated Poisson hurdle distribution. Team counts are convolved assuming independence; calibrated probabilities do not alter the validated expected count.",
+  "broadcast_mention_status": "Experimental Arena conversion restored; not calibrated to broadcast outcomes. Unknown booths show sensitivity scenarios only. No Kalshi quotes are collected or published."
 }
