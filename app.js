@@ -155,7 +155,7 @@ function countCard(g, odds) {
   return card;
 }
 function emptyBoard(data, target) {
-  const empty = el('div', 'empty'); empty.append(el('strong', '', 'No games in the next 48 hours'));
+  const empty = el('div', 'empty'); empty.append(el('strong', '', 'No games in the next ' + (data.horizon_days || 7) + ' days'));
   const next = data.next_scheduled_tip_utc && Number.isFinite(Date.parse(data.next_scheduled_tip_utc));
   empty.append(el('p', '', next ? 'Next scheduled tip: ' + time(data.next_scheduled_tip_utc) + '.' : 'Check back when the NBA schedule has upcoming games.'));
   empty.append(el('p', '', target === 'mention' ? 'Broadcast mention estimates and matching Yes/No prices will appear here.' : 'Made alley-oop projections, O/U probabilities and matching sportsbook lines will appear here.'));
@@ -166,7 +166,7 @@ function renderForecast(data, odds, perf) {
   $('#freshness').textContent = old ? 'Last update may be delayed' : 'Forecasts current';
   $('#last-updated').textContent = 'Last successful update ' + time(data.generated_at);
   $('#model-label').textContent = 'Count model ' + data.model_version + ' · Trained through ' + data.training_cutoff_date;
-  $('#mention-count').textContent = $('#count-count').textContent = data.games.length + ' games';
+  $('#mention-count').textContent = $('#count-count').textContent = data.games.length + ' games · next ' + (data.horizon_days || 7) + ' days';
   const mentionSource = odds.mention_quotes || {};
   $('#mention-market-status').textContent = mentionSource.publication_authorized !== true ? 'Mention odds: not connected' :
     (mentionSource.markets?.length ? 'Mention odds: observed quotes · see timestamps' : 'Mention odds: no matching market reported');
@@ -200,3 +200,4 @@ async function load() {
   }
 }
 load();
+
