@@ -51,6 +51,15 @@ function cardHeader(g, cls) {
   const matchup = el('div', 'matchup');
   matchup.append(el('span', '', g.away.abbreviation), el('span', 'at', '@'), el('span', '', g.home.abbreviation));
   card.append(top, matchup);
+  const crew = g.broadcast_crew;
+  if (crew?.status === 'confirmed' && sourceUrl(crew.source_url) && Date.parse(crew.tip_utc) === Date.parse(g.tip_utc) &&
+      typeof crew.play_by_play === 'string' && Array.isArray(crew.analysts) && Array.isArray(crew.platforms)) {
+    card.append(el('p', 'context-note', crew.platforms.join(' / ') + ' · Play-by-play: ' + crew.play_by_play));
+    card.append(el('p', 'context-note', (crew.analyst_role || 'Analysts') + ': ' + crew.analysts.join(', ') +
+      (crew.reporter ? ' · Reporter: ' + crew.reporter : '')));
+    const link = el('a', 'market-link', 'Confirmed crew · broadcaster source');
+    link.href = sourceUrl(crew.source_url); link.target = '_blank'; link.rel = 'noopener noreferrer'; card.append(link);
+  }
   return card;
 }
 function twoOutcomes(labels, values) {
@@ -67,7 +76,9 @@ function mentionCard(g, odds) {
   if (valid && m.status === 'experimental_documented_booth' && isProbability(m.probability) && m.booth) {
     card.append(twoOutcomes(['YES · phrase said', 'NO · phrase not said'], [m.probability, 1 - m.probability]));
     card.append(el('p', 'context-note', m.booth.crew.join(' & ') + ' · ' + (m.booth.feed_scope === 'national' ? 'National feed' : 'Home local feed')));
-  } else card.append(el('p', 'context-note', valid ? 'Crew/feed not confirmed. A single game-specific Yes/No estimate is unavailable.' : 'Broadcast estimate unavailable.'));
+  } else card.append(el('p', 'context-note', valid ? (g.broadcast_crew?.status === 'confirmed' ?
+    'Crew reported; market feed/window not verified. A single game-specific Yes/No estimate is unavailable.' :
+    'Crew/feed not confirmed. A single game-specific Yes/No estimate is unavailable.') : 'Broadcast estimate unavailable.'));
   if (valid && m.scenario_range && isProbability(m.scenario_range.min) && isProbability(m.scenario_range.max)) {
     card.append(el('div', 'mention-range', percent(m.scenario_range.min) + '–' + percent(m.scenario_range.max) + ' · Yes scenario range'));
     card.append(el('p', 'context-note', 'Sensitivity to booth assumptions; not a confidence interval.'));

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:02:34.829741+00:00",
+  "generated_at": "2026-10-20T02:11:29.649797+00:00",
   "model_version": "EXP-008",
   "training_cutoff_date": "2026-06-13",
   "horizon_days": 7,
@@ -7,6 +7,25 @@
     {
       "game_id": 401909088,
       "tip_utc": "2026-10-20T19:00:00+00:00",
+      "broadcast_crew": {
+        "status": "confirmed",
+        "tip_utc": "2026-10-20T19:00:00+00:00",
+        "platforms": [
+          "NBC",
+          "Peacock"
+        ],
+        "play_by_play": "Terry Gannon",
+        "analysts": [
+          "Robbie Hummel",
+          "Brian Scalabrine"
+        ],
+        "analyst_role": "On the Bench",
+        "reporter": null,
+        "source_url": "https://www.nbcuniversal.com/article/jalen-brunson-and-defending-nba-champion-new-york-knicks-headline-nba-tipoff-tripleheader",
+        "verified_at": "2026-10-20T02:07:08+00:00",
+        "market_scope_verified": false,
+        "note": "Reported broadcast assignment; eligible market speakers, feed and settlement window remain unverified."
+      },
       "away": {
         "id": 2,
         "name": "Boston Celtics",
@@ -120,11 +139,30 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909089,
       "tip_utc": "2026-10-20T23:00:00+00:00",
+      "broadcast_crew": {
+        "status": "confirmed",
+        "tip_utc": "2026-10-20T23:00:00+00:00",
+        "platforms": [
+          "NBC",
+          "Peacock"
+        ],
+        "play_by_play": "Mike Tirico",
+        "analysts": [
+          "Reggie Miller",
+          "Jamal Crawford"
+        ],
+        "analyst_role": "Game analysts",
+        "reporter": "Zora Stephenson",
+        "source_url": "https://www.nbcuniversal.com/article/jalen-brunson-and-defending-nba-champion-new-york-knicks-headline-nba-tipoff-tripleheader",
+        "verified_at": "2026-10-20T02:07:08+00:00",
+        "market_scope_verified": false,
+        "note": "Reported broadcast assignment; eligible market speakers, feed and settlement window remain unverified."
+      },
       "away": {
         "id": 20,
         "name": "Philadelphia 76ers",
@@ -238,11 +276,29 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909090,
       "tip_utc": "2026-10-21T01:30:00+00:00",
+      "broadcast_crew": {
+        "status": "confirmed",
+        "tip_utc": "2026-10-21T01:30:00+00:00",
+        "platforms": [
+          "NBC",
+          "Peacock"
+        ],
+        "play_by_play": "Noah Eagle",
+        "analysts": [
+          "Grant Hill"
+        ],
+        "analyst_role": "Game analysts",
+        "reporter": "Ashley ShahAhmadi",
+        "source_url": "https://www.nbcuniversal.com/article/jalen-brunson-and-defending-nba-champion-new-york-knicks-headline-nba-tipoff-tripleheader",
+        "verified_at": "2026-10-20T02:07:08+00:00",
+        "market_scope_verified": false,
+        "note": "Reported broadcast assignment; eligible market speakers, feed and settlement window remain unverified."
+      },
       "away": {
         "id": 25,
         "name": "Oklahoma City Thunder",
@@ -356,11 +412,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909835,
       "tip_utc": "2026-10-21T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 15,
         "name": "Milwaukee Bucks",
@@ -474,11 +531,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909834,
       "tip_utc": "2026-10-21T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 1,
         "name": "Atlanta Hawks",
@@ -592,11 +650,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909837,
       "tip_utc": "2026-10-21T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 4,
         "name": "Chicago Bulls",
@@ -710,11 +769,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909836,
       "tip_utc": "2026-10-21T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 30,
         "name": "Charlotte Hornets",
@@ -828,11 +888,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909091,
       "tip_utc": "2026-10-21T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 16,
         "name": "Minnesota Timberwolves",
@@ -946,11 +1007,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909839,
       "tip_utc": "2026-10-22T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 11,
         "name": "Indiana Pacers",
@@ -1064,11 +1126,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909838,
       "tip_utc": "2026-10-22T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 26,
         "name": "Utah Jazz",
@@ -1182,11 +1245,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909840,
       "tip_utc": "2026-10-22T00:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 6,
         "name": "Dallas Mavericks",
@@ -1300,11 +1364,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909841,
       "tip_utc": "2026-10-22T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 21,
         "name": "Phoenix Suns",
@@ -1418,11 +1483,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909092,
       "tip_utc": "2026-10-22T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 9,
         "name": "Golden State Warriors",
@@ -1536,11 +1602,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909842,
       "tip_utc": "2026-10-22T02:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 23,
         "name": "Sacramento Kings",
@@ -1654,11 +1721,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909093,
       "tip_utc": "2026-10-22T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 5,
         "name": "Cleveland Cavaliers",
@@ -1772,11 +1840,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909094,
       "tip_utc": "2026-10-23T01:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 7,
         "name": "Denver Nuggets",
@@ -1890,11 +1959,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909848,
       "tip_utc": "2026-10-23T20:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 4,
         "name": "Chicago Bulls",
@@ -2008,11 +2078,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909846,
       "tip_utc": "2026-10-23T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 28,
         "name": "Toronto Raptors",
@@ -2126,11 +2197,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909845,
       "tip_utc": "2026-10-23T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 16,
         "name": "Minnesota Timberwolves",
@@ -2244,11 +2316,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909844,
       "tip_utc": "2026-10-23T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 6,
         "name": "Dallas Mavericks",
@@ -2362,11 +2435,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909843,
       "tip_utc": "2026-10-23T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 1,
         "name": "Atlanta Hawks",
@@ -2480,11 +2554,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909095,
       "tip_utc": "2026-10-23T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 18,
         "name": "New York Knicks",
@@ -2598,11 +2673,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909847,
       "tip_utc": "2026-10-24T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 8,
         "name": "Detroit Pistons",
@@ -2716,11 +2792,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909849,
       "tip_utc": "2026-10-24T01:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 3,
         "name": "New Orleans Pelicans",
@@ -2834,11 +2911,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909096,
       "tip_utc": "2026-10-24T01:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 10,
         "name": "Houston Rockets",
@@ -2952,11 +3030,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909852,
       "tip_utc": "2026-10-24T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 22,
         "name": "Portland Trail Blazers",
@@ -3070,11 +3149,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909851,
       "tip_utc": "2026-10-24T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 12,
         "name": "LA Clippers",
@@ -3188,11 +3268,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909850,
       "tip_utc": "2026-10-24T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 29,
         "name": "Memphis Grizzlies",
@@ -3306,11 +3387,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909853,
       "tip_utc": "2026-10-24T22:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 14,
         "name": "Miami Heat",
@@ -3424,11 +3506,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909855,
       "tip_utc": "2026-10-24T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 15,
         "name": "Milwaukee Bucks",
@@ -3542,11 +3625,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909854,
       "tip_utc": "2026-10-24T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 17,
         "name": "Brooklyn Nets",
@@ -3660,11 +3744,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909858,
       "tip_utc": "2026-10-25T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 24,
         "name": "San Antonio Spurs",
@@ -3778,11 +3863,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909857,
       "tip_utc": "2026-10-25T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 27,
         "name": "Washington Wizards",
@@ -3896,11 +3982,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909856,
       "tip_utc": "2026-10-25T00:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 10,
         "name": "Houston Rockets",
@@ -4014,11 +4101,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909859,
       "tip_utc": "2026-10-25T01:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 3,
         "name": "New Orleans Pelicans",
@@ -4132,11 +4220,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909860,
       "tip_utc": "2026-10-25T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 9,
         "name": "Golden State Warriors",
@@ -4250,11 +4339,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909861,
       "tip_utc": "2026-10-25T21:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 13,
         "name": "Los Angeles Lakers",
@@ -4368,11 +4458,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909862,
       "tip_utc": "2026-10-25T22:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 11,
         "name": "Indiana Pacers",
@@ -4486,11 +4577,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909863,
       "tip_utc": "2026-10-25T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 19,
         "name": "Orlando Magic",
@@ -4604,11 +4696,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909865,
       "tip_utc": "2026-10-25T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 12,
         "name": "LA Clippers",
@@ -4722,11 +4815,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909864,
       "tip_utc": "2026-10-25T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 28,
         "name": "Toronto Raptors",
@@ -4840,11 +4934,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909866,
       "tip_utc": "2026-10-25T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 8,
         "name": "Detroit Pistons",
@@ -4958,11 +5053,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909867,
       "tip_utc": "2026-10-26T01:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 29,
         "name": "Memphis Grizzlies",
@@ -5076,11 +5172,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909869,
       "tip_utc": "2026-10-26T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 16,
         "name": "Minnesota Timberwolves",
@@ -5194,11 +5291,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909868,
       "tip_utc": "2026-10-26T23:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 27,
         "name": "Washington Wizards",
@@ -5312,11 +5410,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909871,
       "tip_utc": "2026-10-26T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 6,
         "name": "Dallas Mavericks",
@@ -5430,11 +5529,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909870,
       "tip_utc": "2026-10-26T23:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 4,
         "name": "Chicago Bulls",
@@ -5548,11 +5648,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909873,
       "tip_utc": "2026-10-27T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 21,
         "name": "Phoenix Suns",
@@ -5666,11 +5767,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909872,
       "tip_utc": "2026-10-27T00:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 11,
         "name": "Indiana Pacers",
@@ -5784,11 +5886,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909874,
       "tip_utc": "2026-10-27T00:30:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 1,
         "name": "Atlanta Hawks",
@@ -5902,11 +6005,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909875,
       "tip_utc": "2026-10-27T01:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 29,
         "name": "Memphis Grizzlies",
@@ -6020,11 +6124,12 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     },
     {
       "game_id": 401909876,
       "tip_utc": "2026-10-27T02:00:00+00:00",
+      "broadcast_crew": null,
       "away": {
         "id": 9,
         "name": "Golden State Warriors",
@@ -6138,7 +6243,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-06-13",
-      "generated_at": "2026-10-20T02:02:34.829741+00:00"
+      "generated_at": "2026-10-20T02:11:29.649797+00:00"
     }
   ],
   "next_scheduled_tip_utc": "2026-10-20 19:00:00+00:00",
