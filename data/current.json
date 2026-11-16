@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:31:24.022474+00:00",
+  "generated_at": "2026-11-16T23:22:08.139474+00:00",
   "model_version": "EXP-008",
   "training_cutoff_date": "2026-11-15",
   "horizon_days": 7,
@@ -121,7 +121,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909995,
@@ -240,7 +240,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909994,
@@ -250,7 +250,7 @@
         "id": 19,
         "name": "Orlando Magic",
         "abbreviation": "ORL",
-        "expected": 1.2993336871814118,
+        "expected": 1.299333687181412,
         "probabilities": {
           "1": 0.7380952380952381,
           "2": 0.4100418410041841,
@@ -271,21 +271,21 @@
         }
       },
       "total": {
-        "expected": 2.2882609369957274,
+        "expected": 2.288260936995728,
         "probabilities": {
           "1": 0.925,
           "2": 0.7837837837837838,
           "3": 0.4811320754716981,
           "4": 0.2547169811320755,
-          "5": 0.12082822446873037
+          "5": 0.12082822446873309
         },
         "distribution": [
           0.07499999999999996,
           0.14121621621621627,
           0.30265170831208565,
           0.2264150943396226,
-          0.13388875666334515,
-          0.12082822446873037
+          0.13388875666334243,
+          0.12082822446873309
         ]
       },
       "broadcast_mention": {
@@ -307,7 +307,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_color_heavy",
-            "probability": 0.709861788144868
+            "probability": 0.7098617881448681
           },
           {
             "parameter_set": "arena_freeze",
@@ -317,7 +317,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.6534617555364239
+            "probability": 0.653461755536424
           },
           {
             "parameter_set": "arena_freeze",
@@ -347,7 +347,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.8114011491435573
+            "probability": 0.8114011491435574
           }
         ],
         "scenario_range": {
@@ -359,7 +359,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909998,
@@ -381,7 +381,7 @@
         "id": 14,
         "name": "Miami Heat",
         "abbreviation": "MIA",
-        "expected": 0.49027734630898717,
+        "expected": 0.4902773463089873,
         "probabilities": {
           "1": 0.4114754098360657,
           "2": 0.12142857142857143,
@@ -421,7 +421,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_neutral_tier1",
-            "probability": 0.6460249734222824
+            "probability": 0.6460249734222825
           },
           {
             "parameter_set": "arena_freeze",
@@ -441,7 +441,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_balanced_traditional",
-            "probability": 0.5846718196675837
+            "probability": 0.5846718196675839
           },
           {
             "parameter_set": "arena_opening_week",
@@ -451,7 +451,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_color_heavy",
-            "probability": 0.47157021540756505
+            "probability": 0.47157021540756516
           },
           {
             "parameter_set": "arena_opening_week",
@@ -466,19 +466,19 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.5505116908820257
+            "probability": 0.5505116908820258
           }
         ],
         "scenario_range": {
           "min": 0.3902355606228416,
-          "max": 0.6460249734222824
+          "max": 0.6460249734222825
         },
         "market_comparison_enabled": false
       },
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909997,
@@ -488,7 +488,7 @@
         "id": 20,
         "name": "Philadelphia 76ers",
         "abbreviation": "PHI",
-        "expected": 0.30672621350711193,
+        "expected": 0.3067262135071119,
         "probabilities": {
           "1": 0.22777777777777777,
           "2": 0.04697986577181208,
@@ -500,7 +500,7 @@
         "id": 17,
         "name": "Brooklyn Nets",
         "abbreviation": "BKN",
-        "expected": 0.38077012988375286,
+        "expected": 0.3807701298837529,
         "probabilities": {
           "1": 0.26421404682274247,
           "2": 0.05471698113207547,
@@ -580,16 +580,16 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.283305557719
+            "probability": 0.2833055577189999
           },
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.4082424022947747
+            "probability": 0.4082424022947746
           }
         ],
         "scenario_range": {
-          "min": 0.283305557719,
+          "min": 0.2833055577189999,
           "max": 0.5226149897708898
         },
         "market_comparison_enabled": false
@@ -597,7 +597,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910000,
@@ -619,7 +619,7 @@
         "id": 3,
         "name": "New Orleans Pelicans",
         "abbreviation": "NO",
-        "expected": 0.6404373996233258,
+        "expected": 0.6404373996233257,
         "probabilities": {
           "1": 0.4943089430894312,
           "2": 0.17721518987341772,
@@ -659,7 +659,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_neutral_tier1",
-            "probability": 0.6944937782586084
+            "probability": 0.6944937782586083
           },
           {
             "parameter_set": "arena_freeze",
@@ -679,12 +679,12 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_balanced_traditional",
-            "probability": 0.6367348932922386
+            "probability": 0.6367348932922385
           },
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.6621601754694699
+            "probability": 0.6621601754694698
           },
           {
             "parameter_set": "arena_opening_week",
@@ -699,7 +699,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.4444103307848284
+            "probability": 0.4444103307848283
           },
           {
             "parameter_set": "arena_opening_week",
@@ -708,15 +708,15 @@
           }
         ],
         "scenario_range": {
-          "min": 0.4444103307848284,
-          "max": 0.6944937782586084
+          "min": 0.4444103307848283,
+          "max": 0.6944937782586083
         },
         "market_comparison_enabled": false
       },
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909999,
@@ -835,7 +835,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910001,
@@ -954,7 +954,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910002,
@@ -1073,7 +1073,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910004,
@@ -1095,16 +1095,16 @@
         "id": 24,
         "name": "San Antonio Spurs",
         "abbreviation": "SA",
-        "expected": 2.523166755936062,
+        "expected": 2.5231667559360624,
         "probabilities": {
           "1": 1.0,
-          "2": 0.6972351324767869,
+          "2": 0.6972351324767884,
           "3": 0.42105263157894735,
-          "4": 0.3287773854964894
+          "4": 0.3287773854964896
         }
       },
       "total": {
-        "expected": 3.4909518343884662,
+        "expected": 3.4909518343884667,
         "probabilities": {
           "1": 1.0,
           "2": 1.0,
@@ -1150,12 +1150,12 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.8167662676708478
+            "probability": 0.8167662676708479
           },
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_balanced_traditional",
-            "probability": 0.9254456189091609
+            "probability": 0.925445618909161
           },
           {
             "parameter_set": "arena_opening_week",
@@ -1184,7 +1184,7 @@
           }
         ],
         "scenario_range": {
-          "min": 0.8167662676708478,
+          "min": 0.8167662676708479,
           "max": 0.9460930656706914
         },
         "market_comparison_enabled": false
@@ -1192,7 +1192,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910003,
@@ -1311,7 +1311,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910006,
@@ -1430,7 +1430,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910005,
@@ -1549,7 +1549,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910007,
@@ -1668,7 +1668,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910009,
@@ -1787,7 +1787,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910008,
@@ -1906,7 +1906,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910010,
@@ -1916,7 +1916,7 @@
         "id": 20,
         "name": "Philadelphia 76ers",
         "abbreviation": "PHI",
-        "expected": 0.3105178941972719,
+        "expected": 0.310517894197272,
         "probabilities": {
           "1": 0.22777777777777777,
           "2": 0.04697986577181208,
@@ -2003,7 +2003,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.7578048989867588
+            "probability": 0.757804898986759
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2013,7 +2013,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.7384642373576171
+            "probability": 0.7384642373576172
           }
         ],
         "scenario_range": {
@@ -2025,7 +2025,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910012,
@@ -2035,7 +2035,7 @@
         "id": 27,
         "name": "Washington Wizards",
         "abbreviation": "WSH",
-        "expected": 1.6270501673894446,
+        "expected": 1.6270501673894449,
         "probabilities": {
           "1": 0.8548387096774194,
           "2": 0.5959595959595959,
@@ -2092,7 +2092,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_color_heavy",
-            "probability": 0.7023246572308813
+            "probability": 0.7023246572308814
           },
           {
             "parameter_set": "arena_freeze",
@@ -2107,7 +2107,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_balanced_traditional",
-            "probability": 0.8094252898895706
+            "probability": 0.8094252898895707
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2117,17 +2117,17 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_color_heavy",
-            "probability": 0.7267265573164272
+            "probability": 0.7267265573164273
           },
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.7021453974731219
+            "probability": 0.702145397473122
           },
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.6146459809532743
+            "probability": 0.6146459809532745
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2136,7 +2136,7 @@
           }
         ],
         "scenario_range": {
-          "min": 0.6146459809532743,
+          "min": 0.6146459809532745,
           "max": 0.8561644237941671
         },
         "market_comparison_enabled": false
@@ -2144,7 +2144,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910011,
@@ -2263,7 +2263,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910016,
@@ -2273,7 +2273,7 @@
         "id": 9,
         "name": "Golden State Warriors",
         "abbreviation": "GS",
-        "expected": 0.6617685888150608,
+        "expected": 0.6617685888150607,
         "probabilities": {
           "1": 0.4943089430894312,
           "2": 0.17721518987341772,
@@ -2294,7 +2294,7 @@
         }
       },
       "total": {
-        "expected": 1.3675871340932901,
+        "expected": 1.36758713409329,
         "probabilities": {
           "1": 0.7391304347826086,
           "2": 0.4478203434610304,
@@ -2350,7 +2350,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.6893944347574378
+            "probability": 0.6893944347574377
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2370,7 +2370,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.637578718023643
+            "probability": 0.6375787180236429
           }
         ],
         "scenario_range": {
@@ -2382,7 +2382,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910014,
@@ -2501,7 +2501,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910013,
@@ -2620,7 +2620,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910015,
@@ -2739,7 +2739,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910017,
@@ -2761,7 +2761,7 @@
         "id": 13,
         "name": "Los Angeles Lakers",
         "abbreviation": "LAL",
-        "expected": 1.5948480827062521,
+        "expected": 1.594848082706252,
         "probabilities": {
           "1": 0.8548387096774194,
           "2": 0.5959595959595959,
@@ -2770,7 +2770,7 @@
         }
       },
       "total": {
-        "expected": 2.4317598254329993,
+        "expected": 2.431759825432999,
         "probabilities": {
           "1": 0.9259259259259259,
           "2": 0.7837837837837838,
@@ -2826,7 +2826,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.8708050249871673
+            "probability": 0.8708050249871672
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2841,7 +2841,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.6883114443782601
+            "probability": 0.68831144437826
           },
           {
             "parameter_set": "arena_opening_week",
@@ -2850,7 +2850,7 @@
           }
         ],
         "scenario_range": {
-          "min": 0.6883114443782601,
+          "min": 0.68831144437826,
           "max": 0.876859937666209
         },
         "market_comparison_enabled": false
@@ -2858,7 +2858,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910018,
@@ -2977,7 +2977,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910022,
@@ -3096,7 +3096,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910020,
@@ -3215,7 +3215,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910019,
@@ -3334,7 +3334,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910021,
@@ -3453,7 +3453,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909305,
@@ -3479,7 +3479,7 @@
         "probabilities": {
           "1": 0.3771186440677966,
           "2": 0.12142857142857143,
-          "3": 0.04318611269510163,
+          "3": 0.0431861126951026,
           "4": 0.004424778761061947
         }
       },
@@ -3572,7 +3572,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909308,
@@ -3691,7 +3691,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909307,
@@ -3810,7 +3810,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909306,
@@ -3820,7 +3820,7 @@
         "id": 19,
         "name": "Orlando Magic",
         "abbreviation": "ORL",
-        "expected": 1.4400412661415725,
+        "expected": 1.4400412661415722,
         "probabilities": {
           "1": 0.8541666666666666,
           "2": 0.4728682170542636,
@@ -3841,7 +3841,7 @@
         }
       },
       "total": {
-        "expected": 1.841337937567912,
+        "expected": 1.8413379375679118,
         "probabilities": {
           "1": 0.8582995951417004,
           "2": 0.5783132530120482,
@@ -3872,7 +3872,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_neutral_tier1",
-            "probability": 0.8025894552233485
+            "probability": 0.8025894552233483
           },
           {
             "parameter_set": "arena_freeze",
@@ -3892,12 +3892,12 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_balanced_traditional",
-            "probability": 0.747131345818085
+            "probability": 0.7471313458180849
           },
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.7872038292399991
+            "probability": 0.787203829239999
           },
           {
             "parameter_set": "arena_opening_week",
@@ -3917,19 +3917,19 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.733079299067422
+            "probability": 0.7330792990674219
           }
         ],
         "scenario_range": {
           "min": 0.5359164314084794,
-          "max": 0.8025894552233485
+          "max": 0.8025894552233483
         },
         "market_comparison_enabled": false
       },
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909310,
@@ -4048,7 +4048,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909309,
@@ -4070,7 +4070,7 @@
         "id": 4,
         "name": "Chicago Bulls",
         "abbreviation": "CHI",
-        "expected": 0.38822664434780074,
+        "expected": 0.38822664434780063,
         "probabilities": {
           "1": 0.26421404682274247,
           "2": 0.05471698113207547,
@@ -4079,7 +4079,7 @@
         }
       },
       "total": {
-        "expected": 2.1414525195050573,
+        "expected": 2.141452519505057,
         "probabilities": {
           "1": 0.925,
           "2": 0.7241379310344828,
@@ -4145,7 +4145,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.6521403879326957
+            "probability": 0.6521403879326956
           },
           {
             "parameter_set": "arena_opening_week",
@@ -4167,7 +4167,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909311,
@@ -4286,7 +4286,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909313,
@@ -4405,7 +4405,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401909312,
@@ -4524,7 +4524,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910023,
@@ -4643,7 +4643,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910024,
@@ -4665,7 +4665,7 @@
         "id": 18,
         "name": "New York Knicks",
         "abbreviation": "NY",
-        "expected": 0.6527269075244153,
+        "expected": 0.6527269075244154,
         "probabilities": {
           "1": 0.4943089430894312,
           "2": 0.17721518987341772,
@@ -4674,7 +4674,7 @@
         }
       },
       "total": {
-        "expected": 1.9308673116197046,
+        "expected": 1.9308673116197048,
         "probabilities": {
           "1": 0.8484848484848485,
           "2": 0.6108786610878661,
@@ -4715,7 +4715,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_extreme_homer",
-            "probability": 0.6787149557014222
+            "probability": 0.6787149557014223
           },
           {
             "parameter_set": "arena_freeze",
@@ -4740,7 +4740,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.6667062938926896
+            "probability": 0.6667062938926898
           },
           {
             "parameter_set": "arena_opening_week",
@@ -4762,7 +4762,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910026,
@@ -4772,7 +4772,7 @@
         "id": 29,
         "name": "Memphis Grizzlies",
         "abbreviation": "MEM",
-        "expected": 0.42075685713994415,
+        "expected": 0.42075685713994426,
         "probabilities": {
           "1": 0.3333333333333333,
           "2": 0.07228915662650602,
@@ -4829,7 +4829,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "national_color_heavy",
-            "probability": 0.574292100196011
+            "probability": 0.5742921001960111
           },
           {
             "parameter_set": "arena_freeze",
@@ -4881,7 +4881,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910025,
@@ -5000,7 +5000,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910027,
@@ -5022,16 +5022,16 @@
         "id": 24,
         "name": "San Antonio Spurs",
         "abbreviation": "SA",
-        "expected": 2.706033160833032,
+        "expected": 2.7060331608330324,
         "probabilities": {
           "1": 1.0,
           "2": 1.0,
           "3": 1.0,
-          "4": 0.4973751124591864
+          "4": 0.49737511245918686
         }
       },
       "total": {
-        "expected": 3.429468125669213,
+        "expected": 3.4294681256692137,
         "probabilities": {
           "1": 1.0,
           "2": 0.875,
@@ -5072,7 +5072,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_extreme_homer",
-            "probability": 0.9304034689316953
+            "probability": 0.9304034689316955
           },
           {
             "parameter_set": "arena_freeze",
@@ -5092,7 +5092,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_color_heavy",
-            "probability": 0.8628645409075448
+            "probability": 0.8628645409075449
           },
           {
             "parameter_set": "arena_opening_week",
@@ -5107,7 +5107,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.9234327646433935
+            "probability": 0.9234327646433936
           }
         ],
         "scenario_range": {
@@ -5119,7 +5119,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910028,
@@ -5238,7 +5238,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910029,
@@ -5248,7 +5248,7 @@
         "id": 8,
         "name": "Detroit Pistons",
         "abbreviation": "DET",
-        "expected": 1.0345027078484101,
+        "expected": 1.0345027078484104,
         "probabilities": {
           "1": 0.6570915619389589,
           "2": 0.3098106712564544,
@@ -5269,7 +5269,7 @@
         }
       },
       "total": {
-        "expected": 1.5685177637642458,
+        "expected": 1.568517763764246,
         "probabilities": {
           "1": 0.7958333333333333,
           "2": 0.4979757085020243,
@@ -5315,7 +5315,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.5222353312664669
+            "probability": 0.5222353312664672
           },
           {
             "parameter_set": "arena_freeze",
@@ -5325,7 +5325,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.735226661942072
+            "probability": 0.7352266619420721
           },
           {
             "parameter_set": "arena_opening_week",
@@ -5335,7 +5335,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.5928669339023436
+            "probability": 0.5928669339023437
           },
           {
             "parameter_set": "arena_opening_week",
@@ -5345,7 +5345,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.680757349241943
+            "probability": 0.6807573492419431
           }
         ],
         "scenario_range": {
@@ -5357,7 +5357,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910030,
@@ -5476,7 +5476,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910033,
@@ -5595,7 +5595,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910032,
@@ -5714,7 +5714,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910031,
@@ -5749,15 +5749,15 @@
         "probabilities": {
           "1": 1.0,
           "2": 0.875,
-          "3": 0.7151254535476411,
+          "3": 0.7151254535476405,
           "4": 0.48148148148148145,
           "5": 0.3125
         },
         "distribution": [
           0.0,
           0.125,
-          0.15987454645235888,
-          0.23364397206615967,
+          0.15987454645235954,
+          0.233643972066159,
           0.16898148148148145,
           0.3125
         ]
@@ -5833,7 +5833,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910034,
@@ -5843,9 +5843,9 @@
         "id": 11,
         "name": "Indiana Pacers",
         "abbreviation": "IND",
-        "expected": 0.9042509243344331,
+        "expected": 0.9042509243344333,
         "probabilities": {
-          "1": 0.6152923692896937,
+          "1": 0.6152923692897111,
           "2": 0.27974568574023617,
           "3": 0.09289340101522843,
           "4": 0.022172949002217297
@@ -5855,7 +5855,7 @@
         "id": 18,
         "name": "New York Knicks",
         "abbreviation": "NY",
-        "expected": 0.5469512595345852,
+        "expected": 0.5469512595345851,
         "probabilities": {
           "1": 0.421875,
           "2": 0.13215859030837004,
@@ -5864,7 +5864,7 @@
         }
       },
       "total": {
-        "expected": 1.4512021838690183,
+        "expected": 1.4512021838690186,
         "probabilities": {
           "1": 0.7692307692307693,
           "2": 0.4979757085020243,
@@ -5910,7 +5910,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_catchphrase_stylist",
-            "probability": 0.5022293389135943
+            "probability": 0.5022293389135946
           },
           {
             "parameter_set": "arena_freeze",
@@ -5920,7 +5920,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "national_neutral_tier1",
-            "probability": 0.7089121393594561
+            "probability": 0.708912139359456
           },
           {
             "parameter_set": "arena_opening_week",
@@ -5930,7 +5930,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_extreme_homer",
-            "probability": 0.5761301391125996
+            "probability": 0.5761301391125995
           },
           {
             "parameter_set": "arena_opening_week",
@@ -5940,7 +5940,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.6541901239450885
+            "probability": 0.6541901239450887
           }
         ],
         "scenario_range": {
@@ -5952,7 +5952,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     },
     {
       "game_id": 401910035,
@@ -5962,7 +5962,7 @@
         "id": 2,
         "name": "Boston Celtics",
         "abbreviation": "BOS",
-        "expected": 1.0326278543727632,
+        "expected": 1.0326278543727634,
         "probabilities": {
           "1": 0.6570915619389589,
           "2": 0.3098106712564544,
@@ -6024,7 +6024,7 @@
           {
             "parameter_set": "arena_freeze",
             "archetype": "local_extreme_homer",
-            "probability": 0.643264313720094
+            "probability": 0.6432643137200941
           },
           {
             "parameter_set": "arena_freeze",
@@ -6059,7 +6059,7 @@
           {
             "parameter_set": "arena_opening_week",
             "archetype": "local_balanced_traditional",
-            "probability": 0.7041188108767307
+            "probability": 0.7041188108767308
           }
         ],
         "scenario_range": {
@@ -6071,7 +6071,7 @@
       "model_version": "EXP-008",
       "model_spec_sha256": "ee43e9bce55df9c8d1ee58d6bc9e85c3594b78fbe29316372dc87c5e3959778c",
       "training_cutoff_date": "2026-11-15",
-      "generated_at": "2026-11-16T20:31:24.022474+00:00"
+      "generated_at": "2026-11-16T23:22:08.139474+00:00"
     }
   ],
   "next_scheduled_tip_utc": "2026-11-17 00:00:00+00:00",
